@@ -1,4 +1,6 @@
-Just another created in feature-1 branch
+Just another created in feature-1 branch. | Replaced in feature-2 branch
 
 
 this file modified locally under VS Code
+
+this line added in feature-2 branch
